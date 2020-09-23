@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="commons-collections4-4.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-collections4-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-jexl-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jxls-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jxls-jexcel-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jxls-poi-1.0.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jxls-reader-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/poi-3.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/poi-ooxml-3.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/slf4j-api-1.7.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/slf4j-nop-1.7.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
